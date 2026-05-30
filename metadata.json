@@ -1,0 +1,6 @@
+{
+  "name": "Turkmen IPTV",
+  "description": "An IPTV player app configured for slow networks. Fetches the latest M3U playlists every time it starts so you always have updated links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
